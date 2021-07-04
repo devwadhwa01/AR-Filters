@@ -13,4 +13,4 @@ Sukuna:
 
 Yoru:
 
-![image](https://user-images.githubusercontent.com/73272997/124395170-3e5e6e00-dd20-11eb-9fdb-44acf59f9f0a.png)
+![image](https://user-images.githubusercontent.com/73272997/124395308-00157e80-dd21-11eb-9d6d-a09aee041674.png)
