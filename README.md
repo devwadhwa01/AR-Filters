@@ -1,6 +1,6 @@
 # AR-Filters
 
-The different filters that I have made to date using SparksAR Studio are as follows:
+My filters:
 <br>
 <br>
 <p align="center">
